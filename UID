@@ -1,0 +1,8 @@
+import os
+os.system('clear')
+N = 'Script has been Deleted Permanently'
+R = 'Alif-NRD Tools No More Updates again'
+D = 'Thanks for joining - '
+print(N)
+print(R)
+print(D)
